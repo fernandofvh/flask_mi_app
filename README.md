@@ -4,3 +4,4 @@ desarrollo para el curso programación y lenguaje estructurado y lenguaje de ges
 unidad formativa 1467
 Incluido dentro del curso de Programación en Python. Academia Pixel Black en La Unión, Murcia. 
 Proyecto de primera app. 07-08-2025
+Fernando Valenzuela
